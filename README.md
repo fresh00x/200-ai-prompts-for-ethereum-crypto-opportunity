@@ -1,12 +1,12 @@
 # 200 AI Prompts for Ethereum Crypto Opportunity
 
-Unlock your crypto potential with this curated list of 200 unique and engaging prompts specifically tailored to the Ethereum market opportunity. Perfect for content creators, marketers, or anyone look
+Get ready to dive into the thrilling world of Ethereum crypto opportunities with this exclusive pack of 200 carefully curated prompts! Ideal for entrepreneurs and investors looking to capitalize on th
 
 ## Dataset Info
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 5 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Unlock your crypto potential with this curated list of 200 unique and engaging p
 ## Sample
 
 ```json
-"How will Ethereum's upcoming upgrade impact the crypto landscape?"
+"How can I create a successful Ethereum-based startup?"
 ```
 
 ## Usage
