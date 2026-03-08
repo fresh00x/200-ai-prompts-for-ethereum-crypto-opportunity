@@ -1,4 +1,4 @@
-# 200 AI Prompts for Ethereum Crypto Opportunity
+# 200-ai-prompts-for-ethereum-crypto-opportunity
 
 Get ready to dive into the thrilling world of Ethereum crypto opportunities with this exclusive pack of 200 carefully curated prompts! Ideal for entrepreneurs and investors looking to capitalize on th
 
@@ -6,7 +6,7 @@ Get ready to dive into the thrilling world of Ethereum crypto opportunities with
 
 | Property | Value |
 |---|---|
-| Records | 5 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Get ready to dive into the thrilling world of Ethereum crypto opportunities with
 ## Sample
 
 ```json
-"How can I create a successful Ethereum-based startup?"
+Keys: title, description, price
 ```
 
 ## Usage
